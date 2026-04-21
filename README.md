@@ -1,7 +1,7 @@
 # SIADS 593: Milestone I
 
 ## **Exploring Diabetes and Chronic Disease Rates Across U.S. States**
-**Maria Febus, Dung Hoang, & Sara Jahanian | Winter 2026**
+#### **Maria Febus, Dung Hoang, & Sara Jahanian | Winter 2026**
 
 This repository contains a modular Python data pipeline designed to load, clean, transform, analyze, and visualize structured datasets. The workflow is orchestrated through a Jupyter Notebook and supported by reusable Python modules for data loading, wrangling, and visualization.
 
