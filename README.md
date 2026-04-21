@@ -12,7 +12,6 @@ The purpose of this project is to conduct an exploratory data analysis (EDA) to:
 Evaluate relationships and uncover patterns between diabetes and other chronic diseases at the state level.
 Provide insight into groups that are disproportionately affected and the factors driving this disparity. 
 Our aim is to inform and guide data scientists onboarding to this project about how we utilize data science methods to discover and share insights that can lead to the development of more effective and efficient healthcare strategies and policies to better serve the individuals in our society. 
-<img width="2675" height="275" alt="image" src="https://github.com/user-attachments/assets/f29fac01-d754-40e4-ae9c-a9f6d86e0f66" />
 
 ### **Questions**
 What chronic diseases are associated with higher diabetes prevalence at the state level?
