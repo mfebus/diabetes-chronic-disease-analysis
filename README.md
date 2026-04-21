@@ -17,7 +17,8 @@ Our aim is to inform and guide data scientists onboarding to this project about 
 ### **Questions**
 What chronic diseases are associated with higher diabetes prevalence at the state level?
 Which state-level socioeconomic factors ( such as income, employment, and insurance access), and local characteristics are most strongly associated with diabetes prevalence across U.S. states?
-Scope 
+
+### **Scope** 
 - Population: Adults 18 and over
 - Timeframe: 2022
 - Location: U.S. States
