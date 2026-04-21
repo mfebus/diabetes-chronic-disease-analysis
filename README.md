@@ -4,10 +4,11 @@
 #### **Maria Febus, Dung Hoang, & Sara Jahanian | Winter 2026**
 
 
+
 ### **Background**
 According to the Centers for Disease Control and Prevention (2024), approximately 38 million people in the United States have diabetes, which is frequently observed alongside other chronic diseases such as cardiovascular disease and COPD. These co-occurring rates differ between states.
 
-### **Motivation:** 
+### **Motivation** 
 The purpose of this project is to conduct an exploratory data analysis (EDA) to:
 Evaluate relationships and uncover patterns between diabetes and other chronic diseases at the state level.
 Provide insight into groups that are disproportionately affected and the factors driving this disparity. 
