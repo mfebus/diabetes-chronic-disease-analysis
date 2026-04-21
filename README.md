@@ -1,6 +1,29 @@
 # SIADS 593: Milestone I
 
+## **Exploring Diabetes and Chronic Disease Rates Across U.S. States**
+Maria Febus, Dung Hoang, & Sara Jahanian | Winter 2026
+
 This repository contains a modular Python data pipeline designed to load, clean, transform, analyze, and visualize structured datasets. The workflow is orchestrated through a Jupyter Notebook and supported by reusable Python modules for data loading, wrangling, and visualization.
+
+### **Background**
+According to the Centers for Disease Control and Prevention (2024), approximately 38 million people in the United States have diabetes, which is frequently observed alongside other chronic diseases such as cardiovascular disease and COPD. These co-occurring rates differ between states.
+Motivation
+The purpose of this project is to conduct an exploratory data analysis (EDA) to:
+Evaluate relationships and uncover patterns between diabetes and other chronic diseases at the state level.
+Provide insight into groups that are disproportionately affected and the factors driving this disparity. 
+Our aim is to inform and guide data scientists onboarding to this project about how we utilize data science methods to discover and share insights that can lead to the development of more effective and efficient healthcare strategies and policies to better serve the individuals in our society. 
+<img width="2675" height="275" alt="image" src="https://github.com/user-attachments/assets/f29fac01-d754-40e4-ae9c-a9f6d86e0f66" />
+
+### **Questions**
+What chronic diseases are associated with higher diabetes prevalence at the state level?
+Which state-level socioeconomic factors ( such as income, employment, and insurance access), and local characteristics are most strongly associated with diabetes prevalence across U.S. states?
+Scope 
+- Population: Adults 18 and over
+- Timeframe: 2022
+- Location: U.S. States
+- State-Level Metrics: 2022 U.S. Census Data
+- Chronic Diseases Covered: Diabetes, obesity, asthma, arthritis, and chronic obstructive pulmonary disease (COPD) rates 
+- Granularity: One row per U.S. State
 
 ## Project Structure
 
