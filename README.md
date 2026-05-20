@@ -1,6 +1,4 @@
-# SIADS 593: Milestone I
-
-## **Exploring Diabetes and Chronic Disease Rates Across U.S. States**
+# **Exploring Diabetes and Chronic Disease Rates Across U.S. States**
 #### **Maria Febus, Dung Hoang, & Sara Jahanian | Winter 2026**
 
 
