@@ -1,6 +1,6 @@
 # **Exploring Diabetes and Chronic Disease Rates Across U.S. States**
 #### **Maria Febus, Dung Hoang, & Sara Jahanian | Winter 2026**
-[Presentation] ["https://github.com/mfebus/diabetes-chronic-disease-analysis/blob/main/diabetes-chronic-disease-analysis.pdf"]
+[View Presentation](https://github.com/mfebus/diabetes-chronic-disease-analysis/blob/main/diabetes-chronic-disease-analysis.pdf)
 
 
 
