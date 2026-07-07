@@ -3,7 +3,6 @@
 [View Presentation](https://github.com/mfebus/diabetes-chronic-disease-analysis/blob/main/diabetes-chronic-disease-analysis.pdf)
 
 
-
 ### **Background**
 According to the Centers for Disease Control and Prevention (2024), approximately 38 million people in the United States have diabetes, which is frequently observed alongside other chronic diseases such as cardiovascular disease and COPD. These co-occurring rates differ between states.
 
